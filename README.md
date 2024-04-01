@@ -1,7 +1,7 @@
 ## Senior J2EE Developer
 Hi there 👋. Please check up my website to keep up to date with my profile:
 - https://www.linkedin.com/in/davidgarcia/
-- https://stackoverflow.com/users/109471/david-garc%c3%ada-gonz%c3%a1lez
+- https://stackoverflow.com/users/109471
 
 <!--
 **garciagonzalezdavid/garciagonzalezdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
